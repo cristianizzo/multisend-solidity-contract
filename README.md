@@ -1,4 +1,4 @@
-## Multisend-solidity-contract
+## Simple Multisend-solidity-contract
 
 This contract allows users to send multiple tokens to multiple addresses in a single transaction. It also supports transferring native blockchain currency (e.g., ETH on Ethereum) to multiple addresses in the same transaction, making it highly efficient for bulk transfers.
 
